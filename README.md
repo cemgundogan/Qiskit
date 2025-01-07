@@ -1,2 +1,2 @@
 # Qiskit
-Qiskit related notebooks
+Qiskit related notebooks for further study.
